@@ -19,3 +19,5 @@ funcionalidad de nuestra aplicación, también conocido como las reglas de negoc
 5. Finalmente crearemos la clase CPJLaboratorioFinal, que significa 
 CursoProgramacionJavaLaboratorioFinal, el cual incluye un menú de opciones para escoger la opción 
 a procesar en el programa.
+
+![image](https://user-images.githubusercontent.com/95313522/223432442-e9b714ff-4fc2-46ef-98a4-38d7dd70412b.png)
