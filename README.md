@@ -1,6 +1,6 @@
 # Peliculas
 
-Laboratorio final del curso de Programación Java que forma parte de la serie de Universidad Java - de Cero a Experto de Udemy
+Laboratorio final del curso de Programación Java que forma parte de la serie de <a href="https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/"><strong>Universidad Java - de Cero a Experto</strong></a> de Udemy
 
 En este laboratorio final vamos a crear un ejercicio que simule un catálogo de películas. Para este 
 ejercicio, vamos a almacenar la información del catálogo de películas en un archivo de texto, en una 
